@@ -7,5 +7,5 @@ Consider using an AutoHotkey editor such a SctTe4AHK - it is an excellent lightw
 
 Download Autohotkey v2.0 here: https://www.autohotkey.com/
 
-Download SciTE4AHK from: https://autohotkey.wiki/editors:s4ahk
+Download SciTE4AHK here: https://autohotkey.wiki/editors:s4ahk
 
